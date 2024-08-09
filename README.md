@@ -1,2 +1,2 @@
 # Titanic
-Projeto na área de ciência de dados com o objetivo de exercitar o filtro de dados. Para isso, foram utilizados os dados dos tripulantes do Titanic, os quais foram retirados do arquivo "titanic.csv".
+Este projeto de ciência de dados tem como objetivo praticar técnicas de filtragem de dados. Para isso, utilizou-se o conjunto de dados dos passageiros do Titanic, extraído do arquivo 'titanic.csv'. A partir desses dados, foi gerada a tabela 'titanic_results.csv', que foi filtrada para incluir apenas sobreviventes do sexo feminino, com mais de 30 anos, pertencentes à terceira classe, organizadas em ordem alfabética.
